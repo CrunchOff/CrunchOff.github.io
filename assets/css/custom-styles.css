@@ -4,11 +4,11 @@
 h1{
   font-family: 'Space Grotesk', sans-serif !important;
   font-weight: 700 !important;
-  font-color: #010203;
+  font-color: #010203 !important;
 }
 
 h2{
   font-family: 'Space Grotesk', sans-serif !important;
   font-weight: 500 !important;
-  font-color: #0C0B0F;
+  font-color: #0C0B0F !important;
 }
