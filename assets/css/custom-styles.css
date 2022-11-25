@@ -4,6 +4,32 @@ body{
   background-color: #242d38 !important;
 }
 
+.navbar-custom{
+  background-color: #181e25 !important;
+  border: none;
+}
+
+.navbar-brand{
+  font-family: 'General Sans', sans-serif !important;
+  font-size: 1.3rem !important;
+  font-weight: 400 !important;
+  color: #f2f2f2 !important;
+}
+
+.nav-item{
+  font-family: 'General Sans', sans-serif !important;
+  font-size: 1.3rem !important;
+  font-weight: 400 !important;
+  color: #f2f2f2 !important;
+}
+
+.nav-item dropdown{
+  font-family: 'General Sans', sans-serif !important;
+  font-size: 1.3rem !important;
+  font-weight: 400 !important;
+  color: #f2f2f2 !important;
+}
+
 .page-subheading{
   font-family: 'Cabinet Grotesk', sans-serif !important;
   font-size: 1.85rem !important;
