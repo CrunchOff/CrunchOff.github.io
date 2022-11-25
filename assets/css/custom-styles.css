@@ -9,3 +9,13 @@ h1{
   font-weight: 600 !important;
   color: #e5e5e5 !important;
 }
+
+h2{
+  font-family: 'Space Grotesk', sans-serif !important;
+  color: #e5e5e5 !important;
+}
+
+.intro-header{
+  font-family: 'Space Grotesk', sans-serif !important;
+  color: #e5e5e5 !important;
+}
