@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Pourquoi je dois avoir 20/20 ?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Salut ! C'est Victor aka Crunch aka Totor
+J'adore les pizzas de la Karukera, en particulier les poivrons marinés
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+J'aime bien la musique,
+Mais pas trop les flics,
 
-### My story
+J'aime pas trop le foot,
+Je préfère le Big Foot,
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+J'aime bien les spagettis,
+Et le Champomy,
