@@ -6,83 +6,83 @@
 }
 
 body{
-  background-color: #242d38 !important;
+    background-color: #242d38 !important;
 }
 
 .navbar-custom{
-  background-color: #181e25 !important;
-  border: none;
+    background-color: #181e25 !important;
+    border: none;
 }
 
 .navbar-brand{
-  font-family: 'General Sans', sans-serif !important;
-  font-size: 1.3rem !important;
-  font-weight: 400 !important;
-  color: #f2f2f2 !important;
+    font-family: 'General Sans', sans-serif !important;
+    font-size: 1.3rem !important;
+    font-weight: 400 !important;
+    color: #f2f2f2 !important;
 }
 
 .nav-link{
-  font-family: 'General Sans', sans-serif !important;
-  font-size: 1.3rem !important;
-  font-weight: 400 !important;
-  color: #f2f2f2 !important;
+    font-family: 'General Sans', sans-serif !important;
+    font-size: 1.3rem !important;
+    font-weight: 400 !important;
+    color: #f2f2f2 !important;
 }
 
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link{
-  font-family: 'General Sans', sans-serif !important;
-  font-size: 1.3rem !important;
-  font-weight: 400 !important;
-  color: #f2f2f2 !important;
+    font-family: 'General Sans', sans-serif !important;
+    font-size: 1.3rem !important;
+    font-weight: 400 !important;
+    color: #f2f2f2 !important;
 }
 
 .page-subheading{
-  font-family: 'Cabinet Grotesk', sans-serif !important;
-  font-size: 1.85rem !important;
-  font-weight: 200 !important;
-  color: #f2f2f2 !important;
+    font-family: 'Cabinet Grotesk', sans-serif !important;
+    font-size: 1.85rem !important;
+    font-weight: 200 !important;
+    color: #f2f2f2 !important;
 }
 
 h1{
-  font-family: 'Cabinet Grotesk', sans-serif !important;
-  font-size: 5.6rem !important;
-  font-weight: 800 !important;
-  color: #f2f2f2 !important;
+    font-family: 'Cabinet Grotesk', sans-serif !important;
+    font-size: 5.6rem !important;
+    font-weight: 800 !important;
+    color: #f2f2f2 !important;
 }
 
 h2{
-  font-family: 'Cabinet Grotesk', sans-serif !important;
-  font-size: 2.6rem !important;
-  font-weight: 400 !important;
-  color: #f2f2f2 !important;
+    font-family: 'Cabinet Grotesk', sans-serif !important;
+    font-size: 2.6rem !important;
+    font-weight: 400 !important;
+    color: #f2f2f2 !important;
 }
 
 h3{
-  font-family: 'General Sans', sans-serif !important;
-  font-size: 1.6rem !important;
-  font-weight: 201 !important;
-  font-style: italic;
-  color: #f2f2f2 !important;
+    font-family: 'General Sans', sans-serif !important;
+    font-size: 1.6rem !important;
+    font-weight: 201 !important;
+    font-style: italic;
+    color: #f2f2f2 !important;
 }
 
 .post-entry{
-  font-family: 'General Sans', sans-serif !important;
-  font-size: 1.3rem !important;
-  font-weight: 400 !important;
-  color: #f2f2f2 !important;
+    font-family: 'General Sans', sans-serif !important;
+    font-size: 1.3rem !important;
+    font-weight: 400 !important;
+    color: #f2f2f2 !important;
 }
 
 .post-read-more{
-  font-family: 'General Sans', sans-serif !important;
-  font-size: 1.3rem !important;
-  font-weight: 600 !important;
-  color: #f2f2f2 !important;
+    font-family: 'General Sans', sans-serif !important;
+    font-size: 1.3rem !important;
+    font-weight: 600 !important;
+    color: #f2f2f2 !important;
 }
 
 .post-thumbnail-title{
-  font-family: 'Cabinet Grotesk', sans-serif !important;
-  font-size: 2.6rem !important;
-  font-weight: 400 !important;
-  color: #f2f2f2 !important;
-  line-height: 1.2 !important;
-  padding-top: 20px !important;
+    font-family: 'Cabinet Grotesk', sans-serif !important;
+    font-size: 2.6rem !important;
+    font-weight: 400 !important;
+    color: #f2f2f2 !important;
+    line-height: 1.2 !important;
+    padding-top: 20px !important;
 }
