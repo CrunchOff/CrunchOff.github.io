@@ -7,6 +7,10 @@
 
 body{
     background-color: #242d38 !important;
+    font-family: 'General Sans', sans-serif !important;
+    font-size: 1.6rem !important;
+    font-weight: 200 !important;
+    color: #f2f2f2 !important;
 }
 
 .navbar-custom{
