@@ -1,5 +1,10 @@
 @import url('https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@800,600,400,200&f[]=general-sans@201,400,600&display=swap');
 
+@media (min-width: 1200px)
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1600px;
+}
+
 body{
   background-color: #242d38 !important;
 }
